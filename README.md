@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  <br><p>⚒️ I'm currently working on predictive lithological mapping using supervised learning algorithms</p>
+  <br><p>⚒️ I'm currently working on predictive lithological mapping using Supervised Learning Algorithms</p>
   
   <p>📔 I'm currently studying Machine Learning applications for Geosciences and Applied Geostatistics</p>
 </div><br>
