@@ -11,14 +11,11 @@
   <p>📔 I'm currently studying Machine Learning applications for Geology and Applied Geostatistics</p>
 </div><br>
 
-<div>
-  <a href="https://github.com/fnaghetini"></a>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fnaghetini&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnaghetini&hide=Jupyter Notebook&langs_count=3&theme=vue"/>
-</div>
+[![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=fnaghetini&show_icons=true&include_all_commits=true&count_private=true&theme=transparent)](https://github.com/fnaghetini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnaghetini&hide=jupyter%20notebook)](https://github.com/fnaghetini/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Julia" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
