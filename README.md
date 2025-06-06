@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  <br><p>⚒️ I'm currently working on software customization and Geological Database solutions</p>
+  <br><p>⚒️ I'm currently working on software customization and Geological Database solutions at @Datamine Brazil</p>
   
   <p>📔 I'm currently studying Machine Learning applications for Geology and Applied Geostatistics</p>
 </div><br>
